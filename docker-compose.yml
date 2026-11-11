@@ -1,0 +1,16 @@
+# forge2 dashboard — container manifest
+# One service: a Homepage dashboard (gethomepage) reading its layout from
+# ./dashboard/services.yaml. Host port 3003 (3000 is taken by the card API).
+services:
+  dashboard:
+    image: ghcr.io/gethomepage/homepage:latest
+    container_name: forge2-dashboard
+    restart: unless-stopped
+    ports:
+      - "3003:3000"
+    volumes:
+      - ./dashboard:/app/config        # services.yaml + settings live here
+      - /var/run/docker.sock:/var/run/docker.sock:ro  # live container status
+    environment:
+      - TZ=America/Chicago
+      - HOMEPAGE_ALLOWED_HOSTS=198.23.150.34:3003
