@@ -1,0 +1,34 @@
+# forge2 dashboard — custom layout
+# Every service Jay runs, one tap from the TV or the phone.
+
+- Command:
+    - Control Center:
+        href: http://198.23.150.34/
+        description: Command dashboard (login required)
+    - TV Launcher:
+        href: http://198.23.150.34/tv/
+        description: Big-screen home base
+
+- Boards:
+    - Campaign Board:
+        href: http://198.23.150.34/campaign/
+        description: Justice for Justin Hayes — live day count
+    - Nike Drops Board:
+        href: http://198.23.150.34/drops/
+        description: SNKRS intel — what's droppin', when, how much
+
+- Business:
+    - QuoteCard Forge:
+        href: https://jayjaybeonone.github.io/quotecard-forge/
+        description: Storefront — social card packs and bundles
+    - Gumroad Store:
+        href: https://jayvortex14.gumroad.com
+        description: QuoteCard Forge products
+    - The Swarm Market:
+        href: http://198.23.150.34/swarm/
+        description: Bot marketplace
+
+- Tools:
+    - Card API:
+        href: http://198.23.150.34:3000/
+        description: Social-card API (key required for clean renders)
