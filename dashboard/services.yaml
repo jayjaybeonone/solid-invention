@@ -1,5 +1,7 @@
 # forge2 dashboard — custom layout
 # Every service Jay runs, one tap from the TV or the phone.
+# Standing rule (Nov 12, 2026): EVERY website, page, and creation gets
+# added to this page.
 
 - Command:
     - Control Center:
@@ -17,6 +19,20 @@
         href: http://198.23.150.34/drops/
         description: SNKRS intel — what's droppin', when, how much
 
+- Websites & Creations:
+    - Jay the Bartender — Demo:
+        href: http://198.23.150.34/jay-demo/
+        description: Contenders-style concept page — physics poster hero
+    - Link-in-Bio:
+        href: https://tinyurl.com/2ycxvkde
+        description: One link — book me, call me, Instagram
+    - Instagram:
+        href: https://www.instagram.com/jay.thebartender/
+        description: "@jay.thebartender — the campaign lives here"
+    - GitHub:
+        href: https://github.com/jayjaybeonone
+        description: All my repos and builds
+
 - Business:
     - QuoteCard Forge:
         href: https://jayjaybeonone.github.io/quotecard-forge/
@@ -27,6 +43,9 @@
     - The Swarm Market:
         href: http://198.23.150.34/swarm/
         description: Bot marketplace
+    - Pinterest Boards:
+        href: https://www.pinterest.com/quotecardforge/
+        description: QuoteCard Forge pins — 3 fresh daily
 
 - Tools:
     - Card API:
