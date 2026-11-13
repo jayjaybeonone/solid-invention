@@ -1,1 +1,121 @@
-IyBmb3JnZTIgZGFzaGJvYXJkIOKAlCBjdXN0b20gbGF5b3V0CiMgRXZlcnkgc2VydmljZSBKYXkgcnVucywgb25lIHRhcCBmcm9tIHRoZSBUViBvciB0aGUgcGhvbmUuCiMgU3RhbmRpbmcgcnVsZSAoTm92IDEyLCAyMDI2KTogRVZFUlkgd2Vic2l0ZSwgcGFnZSwgYW5kIGNyZWF0aW9uIGdldHMKIyBhZGRlZCB0byB0aGlzIHBhZ2UuCgotIENvbW1hbmQ6CiAgICAtIENvbnRyb2wgQ2VudGVyOgogICAgICAgIGhyZWY6IGh0dHA6Ly8xOTguMjMuMTUwLjM0LwogICAgICAgIGRlc2NyaXB0aW9uOiBDb21tYW5kIGRhc2hib2FyZCAobG9naW4gcmVxdWlyZWQpCiAgICAtIFRWIExhdW5jaGVyOgogICAgICAgIGhyZWY6IGh0dHA6Ly8xOTguMjMuMTUwLjM0L3R2LwogICAgICAgIGRlc2NyaXB0aW9uOiBCaWctc2NyZWVuIGhvbWUgYmFzZQoKLSBCb2FyZHM6CiAgICAtIENhbXBhaWduIEJvYXJkOgogICAgICAgIGhyZWY6IGh0dHA6Ly8xOTguMjMuMTUwLjM0L2NhbXBhaWduLwogICAgICAgIGRlc2NyaXB0aW9uOiBKdXN0aWNlIGZvciBKdXN0aW4gSGF5ZXMg4oCUIGxpdmUgZGF5IGNvdW50CiAgICAtIE5pa2UgRHJvcHMgQm9hcmQ6CiAgICAgICAgaHJlZjogaHR0cDovLzE5OC4yMy4xNTAuMzQvZHJvcHMvCiAgICAgICAgZGVzY3JpcHRpb246IFNOS1JTIGludGVsIOKAlCB3aGF0J3MgZHJvcHBpbicsIHdoZW4sIGhvdyBtdWNoCiAgICAtIEVTUE4gQm9hcmQ6CiAgICAgICAgaHJlZjogaHR0cDovLzE5OC4yMy4xNTAuMzQvc3BvcnRzLwogICAgICAgIGRlc2NyaXB0aW9uOiBNeSBvd24gRVNQTiBib2FyZCBhcHAg4oCUIDEwIGxlYWd1ZXMsIGxpdmUgc2NvcmVzLCBzZWxmLWhvc3RlZAogICAgLSBDVEEgTmV4dCBUcmFpbnM6CiAgICAgICAgaHJlZjogaHR0cDovLzE5OC4yMy4xNTAuMzQvY3RhLwogICAgICAgIGRlc2NyaXB0aW9uOiBMaXZlIENUQSBhcnJpdmFscyBmb3IgdGhlIEVuZ2xld29vZCBzdG9wcyDigJQgbmVlZHMgdGhlIGZyZWUgQ1RBIGtleSB0byBsaWdodCB1cAoKLSBXZWJzaXRlcyAmIENyZWF0aW9uczoKICAgIC0gSmF5IHRoZSBCYXJ0ZW5kZXIg4oCUIERlbW86CiAgICAgICAgaHJlZjogaHR0cDovLzE5OC4yMy4xNTAuMzQvamF5LWRlbW8vCiAgICAgICAgZGVzY3JpcHRpb246IENvbnRlbmRlcnMtc3R5bGUgY29uY2VwdCBwYWdlIOKAlCBwaHlzaWNzIHBvc3RlciBoZXJvCiAgICAtIExpbmstaW4tQmlvOgogICAgICAgIGhyZWY6IGh0dHBzOi8vdGlueXVybC5jb20vMnljeHZrZGUKICAgICAgICBkZXNjcmlwdGlvbjogT25lIGxpbmsg4oCUIGJvb2sgbWUsIGNhbGwgbWUsIEluc3RhZ3JhbQogICAgLSBJbnN0YWdyYW06CiAgICAgICAgaHJlZjogaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qYXkudGhlYmFydGVuZGVyLwogICAgICAgIGRlc2NyaXB0aW9uOiAiQGpheS50aGViYXJ0ZW5kZXIg4oCUIHRoZSBjYW1wYWlnbiBsaXZlcyBoZXJlIgogICAgLSBHaXRIdWI6CiAgICAgICAgaHJlZjogaHR0cHM6Ly9naXRodWIuY29tL2pheWpheWJlb25vbmUKICAgICAgICBkZXNjcmlwdGlvbjogQWxsIG15IHJlcG9zIGFuZCBidWlsZHMKCi0gQnVzaW5lc3M6CiAgICAtIFF1b3RlQ2FyZCBGb3JnZToKICAgICAgICBocmVmOiBodHRwczovL2pheWpheWJlb25vbmUuZ2l0aHViLmlvL3F1b3RlY2FyZC1mb3JnZS8KICAgICAgICBkZXNjcmlwdGlvbjogU3RvcmVmcm9udCDigJQgc29jaWFsIGNhcmQgcGFja3MgYW5kIGJ1bmRsZXMKICAgIC0gR3Vtcm9hZCBTdG9yZToKICAgICAgICBocmVmOiBodHRwczovL2pheXZvcnRleDE0Lmd1bXJvYWQuY29tCiAgICAgICAgZGVzY3JpcHRpb246IFF1b3RlQ2FyZCBGb3JnZSBwcm9kdWN0cwogICAgLSBUaGUgU3dhcm0gTWFya2V0OgogICAgICAgIGhyZWY6IGh0dHA6Ly8xOTguMjMuMTUwLjM0L3N3YXJtLwogICAgICAgIGRlc2NyaXB0aW9uOiBCb3QgbWFya2V0cGxhY2UKICAgIC0gUGludGVyZXN0IEJvYXJkczoKICAgICAgICBocmVmOiBodHRwczovL3d3dy5waW50ZXJlc3QuY29tL3F1b3RlY2FyZGZvcmdlLwogICAgICAgIGRlc2NyaXB0aW9uOiBRdW90ZUNhcmQgRm9yZ2UgcGlucyDigJQgMyBmcmVzaCBkYWlseQoKLSBUb29sczoKICAgIC0gQ2FyZCBBUEk6CiAgICAgICAgaHJlZjogaHR0cDovLzE5OC4yMy4xNTAuMzQ6MzAwMC8KICAgICAgICBkZXNjcmlwdGlvbjogU29jaWFsLWNhcmQgQVBJIChrZXkgcmVxdWlyZWQgZm9yIGNsZWFuIHJlbmRlcnMpCgotIFRvb2xib3g6CiAgICAtIFBob3RvcGVhOgogICAgICAgIGhyZWY6IGh0dHBzOi8vd3d3LnBob3RvcGVhLmNvbS8KICAgICAgICBkZXNjcmlwdGlvbjogUGhvdG9zaG9wIGluIHRoZSBicm93c2VyIOKAlCB0aGUgcG9zdC1DYW52YSB3b3JraG9yc2UKICAgIC0gUmVtb3ZlLmJnOgogICAgICAgIGhyZWY6IGh0dHBzOi8vd3d3LnJlbW92ZS5iZy8KICAgICAgICBkZXNjcmlwdGlvbjogT25lLWNsaWNrIGJhY2tncm91bmQgcmVtb3ZhbAogICAgLSBTcXVvb3NoOgogICAgICAgIGhyZWY6IGh0dHBzOi8vc3F1b29zaC5hcHAvCiAgICAgICAgZGVzY3JpcHRpb246IEdvb2dsZSdzIGltYWdlIGNvbXByZXNzb3Ig4oCUIHdvcmtzIG9mZmxpbmUKICAgIC0gVGlueVBORzoKICAgICAgICBocmVmOiBodHRwczovL3RpbnlwbmcuY29tLwogICAgICAgIGRlc2NyaXB0aW9uOiBTaHJpbmsgUE5HcyBhbmQgSlBFR3MgZm9yIGNhcmRzIGFuZCBwaW5zCiAgICAtIENvb2xvcnM6CiAgICAgICAgaHJlZjogaHR0cHM6Ly9jb29sb3JzLmNvLwogICAgICAgIGRlc2NyaXB0aW9uOiBDb2xvciBwYWxldHRlcyBpbiBzZWNvbmRzCiAgICAtIFVwc2NheWw6CiAgICAgICAgaHJlZjogaHR0cHM6Ly91cHNjYXlsLm9yZy8KICAgICAgICBkZXNjcmlwdGlvbjogRnJlZSBBSSBpbWFnZSB1cHNjYWxlciDigJQgcnVucyBvbiB5b3VyIG93biBtYWNoaW5lCiAgICAtIEJCQyBTb3VuZCBFZmZlY3RzOgogICAgICAgIGhyZWY6IGh0dHBzOi8vc291bmQtZWZmZWN0cy5iYmNyZXdpbmQuY28udWsvCiAgICAgICAgZGVzY3JpcHRpb246IDMzLDAwMCsgZnJlZSBzb3VuZCBlZmZlY3RzIGZyb20gdGhlIEJCQyBhcmNoaXZlCiAgICAtIFVwcGJlYXQ6CiAgICAgICAgaHJlZjogaHR0cHM6Ly91cHBiZWF0LmlvLwogICAgICAgIGRlc2NyaXB0aW9uOiBSb3lhbHR5LWZyZWUgbXVzaWMgYW5kIFNGWCBmb3IgcmVlbHMg4oCUIG5vIHN0cmlrZXMKICAgIC0gU3VidGl0bGUgQ2F0OgogICAgICAgIGhyZWY6IGh0dHBzOi8vc3VidGl0bGVjYXQuY29tLwogICAgICAgIGRlc2NyaXB0aW9uOiBBdXRvIHN1YnRpdGxlcyBhbmQgdHJhbnNsYXRpb24gZm9yIHZpZGVvCiAgICAtIENvYmFsdDoKICAgICAgICBocmVmOiBodHRwczovL2NvYmFsdC50b29scy8KICAgICAgICBkZXNjcmlwdGlvbjogQ2xlYW4gZG93bmxvYWRzIG9mIHlvdXIgb3duIHNvY2lhbCBjbGlwcwogICAgLSBSYWRpbyBHYXJkZW46CiAgICAgICAgaHJlZjogaHR0cHM6Ly9yYWRpby5nYXJkZW4vCiAgICAgICAgZGVzY3JpcHRpb246IExpdmUgcmFkaW8gZnJvbSBldmVyeXdoZXJlIG9uIEVhcnRoCiAgICAtIFBERjI0OgogICAgICAgIGhyZWY6IGh0dHBzOi8vdG9vbHMucGRmMjQub3JnL2VuLwogICAgICAgIGRlc2NyaXB0aW9uOiBGdWxsIFBERiB0b29sa2l0IOKAlCBtZXJnZSwgc3BsaXQsIGNvbXByZXNzLCBubyBjYXRjaGVzCiAgICAtIFBERkdlYXI6CiAgICAgICAgaHJlZjogaHR0cHM6Ly93d3cucGRmZ2Vhci5jb20vCiAgICAgICAgZGVzY3JpcHRpb246IEZyZWUgZGVza3RvcCBQREYgZWRpdG9yIOKAlCBlZGl0IHRleHQsIHNpZ24sIGNvbnZlcnQKICAgIC0gVmlydXNUb3RhbDoKICAgICAgICBocmVmOiBodHRwczovL3d3dy52aXJ1c3RvdGFsLmNvbS8KICAgICAgICBkZXNjcmlwdGlvbjogU2NhbiBhbnkgZmlsZSBvciBsaW5rIHdpdGggNzArIGFudGl2aXJ1cyBlbmdpbmVzIOKAlCBjaGVjayBBUEtzIGZpcnN0CiAgICAtIHVybHNjYW46CiAgICAgICAgaHJlZjogaHR0cHM6Ly91cmxzY2FuLmlvLwogICAgICAgIGRlc2NyaXB0aW9uOiBPcGVuIGEgc3VzcGljaW91cyBsaW5rIGluIGEgc2FuZGJveCBhbmQgd2F0Y2ggd2hhdCBpdCBkb2VzCiAgICAtIEhhdmUgSSBCZWVuIFB3bmVkOgogICAgICAgIGhyZWY6IGh0dHBzOi8vaGF2ZWliZWVucHduZWQuY29tLwogICAgICAgIGRlc2NyaXB0aW9uOiBDaGVjayB5b3VyIGVtYWlscyBhZ2FpbnN0IGtub3duIGRhdGEgYnJlYWNoZXMKICAgIC0gQXJjaGl2ZS5waDoKICAgICAgICBocmVmOiBodHRwczovL2FyY2hpdmUucGgvCiAgICAgICAgZGVzY3JpcHRpb246IFBlcm1hbmVudGx5IHNuYXBzaG90IGFueSB3ZWIgcGFnZSDigJQgY2l0YXRpb25zIHRoYXQgY2FuJ3QgY2hhbmdlCiAgICAtIEZsb3dDVjoKICAgICAgICBocmVmOiBodHRwczovL2Zsb3djdi5jb20vCiAgICAgICAgZGVzY3JpcHRpb246IFJlc3VtZSBidWlsZGVyIOKAlCBmcmVlIFBERiBleHBvcnQsIG5vIHdhdGVybWFyayB0cmlja3MKICAgIC0gV2ViaG9vay5zaXRlOgogICAgICAgIGhyZWY6IGh0dHBzOi8vd2ViaG9vay5zaXRlLwogICAgICAgIGRlc2NyaXB0aW9uOiBJbnN0YW50IFVSTCB0byBpbnNwZWN0IHdlYmhvb2tzIGFuZCBBUEkgY2FsbHMKICAgIC0gUGFpckRyb3A6CiAgICAgICAgaHJlZjogaHR0cHM6Ly9wYWlyZHJvcC5uZXQvCiAgICAgICAgZGVzY3JpcHRpb246IEFpckRyb3AgZm9yIGV2ZXJ5dGhpbmcg4oCUIHBob25lIHRvIFRWIG9yIFBDLCBpbiB0aGUgYnJvd3Nlcgo=
+# forge2 dashboard — custom layout
+# Every service Jay runs, one tap from the TV or the phone.
+# Standing rule (Nov 12, 2026): EVERY website, page, and creation gets
+# added to this page.
+
+- Command:
+    - Control Center:
+        href: http://198.23.150.34/
+        description: Command dashboard (login required)
+    - TV Launcher:
+        href: http://198.23.150.34/tv/
+        description: Big-screen home base
+
+- Boards:
+    - Campaign Board:
+        href: http://198.23.150.34/campaign/
+        description: Justice for Justin Hayes — live day count
+    - Nike Drops Board:
+        href: http://198.23.150.34/drops/
+        description: SNKRS intel — what's droppin', when, how much
+    - ESPN Board:
+        href: http://198.23.150.34/sports/
+        description: My own ESPN board app — 10 leagues, live scores, self-hosted
+    - CTA Next Trains:
+        href: http://198.23.150.34/cta/
+        description: Live CTA arrivals for the Englewood stops — needs the free CTA key to light up
+
+- Websites & Creations:
+    - Jay the Bartender — Demo:
+        href: http://198.23.150.34/jay-demo/
+        description: Contenders-style concept page — physics poster hero
+    - Link-in-Bio:
+        href: https://tinyurl.com/2ycxvkde
+        description: One link — book me, call me, Instagram
+    - Instagram:
+        href: https://www.instagram.com/jay.thebartender/
+        description: "@jay.thebartender — the campaign lives here"
+    - GitHub:
+        href: https://github.com/jayjaybeonone
+        description: All my repos and builds
+
+- Business:
+    - QuoteCard Forge:
+        href: https://jayjaybeonone.github.io/quotecard-forge/
+        description: Storefront — social card packs and bundles
+    - Gumroad Store:
+        href: https://jayvortex14.gumroad.com
+        description: QuoteCard Forge products
+    - The Swarm Market:
+        href: http://198.23.150.34/swarm/
+        description: Bot marketplace
+    - Pinterest Boards:
+        href: https://www.pinterest.com/quotecardforge/
+        description: QuoteCard Forge pins — 3 fresh daily
+
+- Tools:
+    - Card API:
+        href: http://198.23.150.34:3000/
+        description: Social-card API (key required for clean renders)
+
+- Toolbox:
+    - Photopea:
+        href: https://www.photopea.com/
+        description: Photoshop in the browser — the post-Canva workhorse
+    - Remove.bg:
+        href: https://www.remove.bg/
+        description: One-click background removal
+    - Squoosh:
+        href: https://squoosh.app/
+        description: Google's image compressor — works offline
+    - TinyPNG:
+        href: https://tinypng.com/
+        description: Shrink PNGs and JPEGs for cards and pins
+    - Coolors:
+        href: https://coolors.co/
+        description: Color palettes in seconds
+    - Upscayl:
+        href: https://upscayl.org/
+        description: Free AI image upscaler — runs on your own machine
+    - BBC Sound Effects:
+        href: https://sound-effects.bbcrewind.co.uk/
+        description: 33,000+ free sound effects from the BBC archive
+    - Uppbeat:
+        href: https://uppbeat.io/
+        description: Royalty-free music and SFX for reels — no strikes
+    - Subtitle Cat:
+        href: https://subtitlecat.com/
+        description: Auto subtitles and translation for video
+    - Cobalt:
+        href: https://cobalt.tools/
+        description: Clean downloads of your own social clips
+    - Radio Garden:
+        href: https://radio.garden/
+        description: Live radio from everywhere on Earth
+    - PDF24:
+        href: https://tools.pdf24.org/en/
+        description: Full PDF toolkit — merge, split, compress, no catches
+    - PDFGear:
+        href: https://www.pdfgear.com/
+        description: Free desktop PDF editor — edit text, sign, convert
+    - VirusTotal:
+        href: https://www.virustotal.com/
+        description: Scan any file or link with 70+ antivirus engines — check APKs first
+    - urlscan:
+        href: https://urlscan.io/
+        description: Open a suspicious link in a sandbox and watch what it does
+    - Have I Been Pwned:
+        href: https://haveibeenpwned.com/
+        description: Check your emails against known data breaches
+    - Archive.ph:
+        href: https://archive.ph/
+        description: Permanently snapshot any web page — citations that can't change
+    - FlowCV:
+        href: https://flowcv.com/
+        description: Resume builder — free PDF export, no watermark tricks
+    - Webhook.site:
+        href: https://webhook.site/
+        description: Instant URL to inspect webhooks and API calls
+    - PairDrop:
+        href: https://pairdrop.net/
+        description: AirDrop for everything — phone to TV or PC, in the browser
