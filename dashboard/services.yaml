@@ -32,6 +32,9 @@
         description: Feed dashboard — Chicago weather, markets, Block Club + Reader headlines, server stats
 
 - Websites & Creations:
+    - Jay the Bartender — React Portfolio:
+        href: http://198.23.150.34/portfolio/
+        description: React + Framer Motion + Tailwind portfolio — record, pours, services, booking
     - Jay the Bartender — Demo:
         href: http://198.23.150.34/jay-demo/
         description: Contenders-style concept page — physics poster hero
