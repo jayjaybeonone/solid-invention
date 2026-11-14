@@ -24,6 +24,9 @@
     - CTA Next Trains:
         href: http://198.23.150.34/cta/
         description: Live CTA arrivals for the Englewood stops — needs the free CTA key to light up
+    - Chicago Tonight:
+        href: http://198.23.150.34/tonight/
+        description: One screen — tonight's weather, Chicago teams, next trains, shows out
 
 - Websites & Creations:
     - Jay the Bartender — Demo:
