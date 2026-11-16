@@ -50,6 +50,9 @@
     - Life Cost Calculator:
         href: http://198.23.150.34/life-calc/
         description: Built Nov 15 — monthly cost of life, live totals + breakdown, saves on device
+    - The Englewood Board:
+        href: http://198.23.150.34/englewood/
+        description: Built Nov 15 — neighborhood postings + message board, moderated queue, 30-day listings
     - Link-in-Bio:
         href: http://198.23.150.34/bio/
         description: One link — book me, call me, Instagram (linkyee, on forge2)
