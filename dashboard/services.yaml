@@ -80,6 +80,9 @@
     - My IP Check:
         href: http://198.23.150.34/ip/
         description: Added Nov 18 — shows the public IP this device is presenting to the internet (ipify); doubles as a Tailscale exit-node check
+    - Coupon Codes:
+        href: http://198.23.150.34/codes/
+        description: Added Nov 18 — searchable coupon codes for 2,500+ independent online stores (Whale Coupons public data, loaded live in the browser; tap a code to copy it)
     - Link-in-Bio:
         href: http://198.23.150.34/bio/
         description: One link — book me, call me, Instagram (linkyee, on forge2)
