@@ -83,6 +83,9 @@
     - Coupon Codes:
         href: http://198.23.150.34/codes/
         description: Added Nov 18 — searchable coupon codes for 2,500+ independent online stores (Whale Coupons public data, loaded live in the browser; tap a code to copy it)
+    - Responsive Checker:
+        href: http://198.23.150.34/responsive/
+        description: Added Nov 19 — test any website on phone, tablet, and desktop viewports side by side; swap devices, rotate, custom sizes, shareable link
     - Link-in-Bio:
         href: http://198.23.150.34/bio/
         description: One link — book me, call me, Instagram (linkyee, on forge2)
