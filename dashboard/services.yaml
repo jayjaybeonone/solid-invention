@@ -89,9 +89,9 @@
     - Crowd DJ — Song Requests:
         href: http://198.23.150.34/crowddj/
         description: Added Nov 19 — guests request songs and upvote the queue live at DJ Haze gigs; DJ booth view at /crowddj/dj.html (key on the server)
-    - Maison Verde Catering:
-        href: http://198.23.150.34/maison-verde/
-        description: Added Nov 19 — catering company landing page (weddings, corporate, private events, bar service); source repo on GitHub, feature/catering-landing-page branch
+    - FOR NEM Catering Co.:
+        href: http://198.23.150.34/for-nem/
+        description: Added Nov 19 — Chicago catering company (rebranded from Maison Verde same day) — weddings, cookouts, corporate, repasts, bar service; packages $18–$38/person; source repo on GitHub, feature/catering-landing-page branch
     - Link-in-Bio:
         href: http://198.23.150.34/bio/
         description: One link — book me, call me, Instagram (linkyee, on forge2)
