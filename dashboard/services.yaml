@@ -86,6 +86,9 @@
     - Responsive Checker:
         href: http://198.23.150.34/responsive/
         description: Added Nov 19 — test any website on phone, tablet, and desktop viewports side by side; swap devices, rotate, custom sizes, shareable link
+    - Crowd DJ — Song Requests:
+        href: http://198.23.150.34/crowddj/
+        description: Added Nov 19 — guests request songs and upvote the queue live at DJ Haze gigs; DJ booth view at /crowddj/dj.html (key on the server)
     - Link-in-Bio:
         href: http://198.23.150.34/bio/
         description: One link — book me, call me, Instagram (linkyee, on forge2)
